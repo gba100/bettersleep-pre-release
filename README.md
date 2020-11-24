@@ -1,7 +1,7 @@
 # bettersleep-pre-release
 Bettersleep - alarm clock app with Sleep cycle Alarm and survey
 
-This project is an open source android project, made as a personal university project. 
+This project is made as a personal university project. 
 The project combines the abilities of a regulars clock app and monitoring sleep cycle app. 
 It gives suggestions for the amount of time you should sleep for, plus it gives you a survey that can help you monitory your sleeping habits.
 

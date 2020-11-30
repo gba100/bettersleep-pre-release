@@ -13,6 +13,8 @@ what's in the app?
 *stopwatch
 *world clock
 
+latest release:
+https://github.com/gba100/bettersleep-pre-release/releases/tag/Bettersleep_beta_0.6.5
 
   Disclaimer!
   
@@ -49,8 +51,7 @@ check release for the latest relese
     more updates are coming soon!
 
 
-latest release:
-https://github.com/gba100/bettersleep-pre-release/releases/tag/Bettersleep_beta_0.6.5
+
 
 contact me for suggestions & questions:
 kairotechg@gmail.com

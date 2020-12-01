@@ -14,7 +14,7 @@ what's in the app?
 *world clock
 
 latest release:
-https://github.com/gba100/bettersleep-pre-release/releases/tag/Bettersleep_beta_0.6.5
+https://github.com/gba100/bettersleep-pre-release/releases
 
   Disclaimer!
   

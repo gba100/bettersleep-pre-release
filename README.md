@@ -31,7 +31,7 @@ https://github.com/gba100/bettersleep-pre-release/releases
   Q:  am I going to get the grate sleeping habits from the app right away?
   A:  it takes time to lern and understand your sleeping habits, so take your time you will figure it out.
   
-  Q: I am haveing a problem with the app what shuld I do?
+  Q: I am having a problem with the app what should I do? 
   A: download the latest apk or contact me so I could help you.
   
   Q: what languages did you use to build the app?
